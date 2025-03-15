@@ -1,3 +1,5 @@
+#Part A: Python Functions Assignment
+
 import math
 
 def is_prime(number):
